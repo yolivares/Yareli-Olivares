@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<style> body {
+    font-size: 1em;
+    font-weight: normal;
+    font-family: Arial, Sans-serif;
+    color: #000000;
+    text-align: left;
+ }
+ h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #4d94ff;
+    text-align: center;
+ }
+ h2 {
+   font-size: 1.8em;
+   font-weight: bold;
+   color: #4d94ff;
+   text-align: left;
+ }
+ div {
+   font-size: 1.2em;
+   font-weight: italic;
+   color: #0d0d0d;
+   text-align: left;
+ }
+ p {
+   font-size: 1.1em;
+   font-weight: italic; 
+   color: #0d0d0d;
+   text-align: left;
+ }
+</style>
+    <meta charset="utf-8">
+    <title>Web Portfolio: Yareli Olivares</title>
+   </head>
+   <body>
+   <main>
+    <h1>Web Portfolio</h1>
+      <h2>About Me</h2>
+    <div>
+      <ul>
+          <li>Yareli Olivares</li>
+          <li>olivares.yareli04@gmail.com</li>
+         </ul>
+     </div>
+     <div>
+        <ul>
+          <li>Web Design II</li>
+          <li>Mrs.Ward</li>
+          <li>Adamson High School</li>
+          <li>2020</li>
+        </ul>
+     </div>
+        <nav>
+          <ul>
+            <li>Home</li>
+            <li>Accessibility</li>
+            <li>Usability</li>
+            <li>Graphics</li>
+            <li>Javascript</li>
+            <li>Tools</li>
+          </ul>
+       </nav>
+         <p>Something</p>
+         <h2>Unit 2</h2>
+         <p>This section will be completed soon.</p>
+         <h2>Unit 3</h2>
