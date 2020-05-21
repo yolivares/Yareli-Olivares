@@ -32,6 +32,15 @@
    color: #0d0d0d;
    text-align: left;
  }
+  a {
+    color: black;
+    background-color: white;
+  }
+  a:hover {
+    color: white;
+    background-color: black;
+  }
+  
 </style>
     <meta charset="utf-8">
     <title>Web Portfolio: Yareli Olivares</title>
